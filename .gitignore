@@ -1,0 +1,15 @@
+# Node.js (React)
+chatai_front/node_modules
+chatai_front/build
+
+# Java (Spring Boot)
+chatai_back/.gradle
+chatai_back/build
+chatai_back/out
+chatai_back/.idea
+chatai_back/.mvn
+chatai_back/target
+
+# 환경 설정 파일
+*.env
+*.log
