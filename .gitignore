@@ -9,6 +9,7 @@ chatai_back/out
 chatai_back/.idea
 chatai_back/.mvn
 chatai_back/target
+chatai_back/src/main/resources/application-secret.yml
 
 # 환경 설정 파일
 *.env
