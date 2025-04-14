@@ -1,6 +1,7 @@
 # Node.js (React)
 chatai_front/node_modules
 chatai_front/build
+chatai_front/src/util/firebase.ts
 
 # Java (Spring Boot)
 chatai_back/.gradle
